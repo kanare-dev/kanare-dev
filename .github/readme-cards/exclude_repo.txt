@@ -1,0 +1,9 @@
+# Exclude repositories from "Top Languages" calculation.
+# - One repo name per line (owner is optional; repo name alone is fine).
+# - Blank lines and lines starting with # are ignored.
+#
+# Example:
+MNIST_Examples
+deformation-prediction-multi-environment
+mini_theater_scheduler
+tochiji-hackathon-2025

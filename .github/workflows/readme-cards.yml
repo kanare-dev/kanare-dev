@@ -18,11 +18,34 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Build card options
+        id: build-options
+        shell: bash
+        run: |
+          EXCLUDE_FILE=".github/readme-cards/exclude_repo.txt"
+
+          if [[ -f "$EXCLUDE_FILE" ]]; then
+            EXCLUDE_REPO="$(
+              grep -vE '^\s*(#|$)' "$EXCLUDE_FILE" \
+                | tr -d '\r' \
+                | paste -sd, -
+            )"
+          else
+            EXCLUDE_REPO=""
+          fi
+
+          OPTIONS="username=${{ github.repository_owner }}&&layout=compact&&langs_count=8"
+          if [[ -n "$EXCLUDE_REPO" ]]; then
+            OPTIONS="${OPTIONS}&&exclude_repo=${EXCLUDE_REPO}"
+          fi
+
+          echo "options=${OPTIONS}" >> "$GITHUB_OUTPUT"
+
       - name: Generate top languages card
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&&layout=compact&&langs_count=8
+          options: ${{ steps.build-options.outputs.options }}
           path: cards/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
