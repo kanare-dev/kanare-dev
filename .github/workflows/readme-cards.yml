@@ -5,7 +5,7 @@ on:
     branches:
       - main
     paths-ignore:
-      - "cards/**"
+      - "cards/**/*.svg"
   schedule:
     - cron: "0 0 * * *" # daily at 00:00 UTC
   workflow_dispatch:
@@ -22,7 +22,7 @@ jobs:
         id: build-options
         shell: bash
         run: |
-          EXCLUDE_FILE=".github/readme-cards/exclude_repo.txt"
+          EXCLUDE_FILE="cards/top-langs/exclude_repo.txt"
 
           if [[ -f "$EXCLUDE_FILE" ]]; then
             EXCLUDE_REPO="$(
@@ -46,13 +46,13 @@ jobs:
         with:
           card: top-langs
           options: ${{ steps.build-options.outputs.options }}
-          path: cards/top-langs.svg
+          path: cards/top-langs/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit cards
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add cards/*.svg
+          git add cards
           git commit -m "Update README cards" || exit 0
           git push

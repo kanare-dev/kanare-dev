@@ -12,7 +12,7 @@
 [![Tech Stack](https://skillicons.dev/icons?i=git,github,githubactions,vim,neovim&perline=5)](https://skillicons.dev)  
 [![Tech Stack](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&perline=5)](https://skillicons.dev)
 
-![Top Languages](./cards/top-langs.svg)
+![Top Languages](./cards/top-langs/top-langs.svg)
 
 ---
 
