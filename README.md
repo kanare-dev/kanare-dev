@@ -65,6 +65,7 @@ to deepen my understanding of agile and reproducible infrastructure design.
 - [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/b90003c9-9a26-414d-b4f3-3a3fc05803f1)
 - [AWS Certified CloudOps Engineer – Associate](https://www.credly.com/badges/af4b7eee-7adc-45fd-832c-d233f50c4af6)
 - [AWS Certified Developer – Associate](https://www.credly.com/badges/2fb0a9b4-0d9d-422a-8b8a-dd7e9b0053ca)
+- [AWS Certified Solutions Architect - Professional](https://www.credly.com/badges/8d641e39-ae3d-4417-bc39-b40107c47ed1)
 
 ---
 
