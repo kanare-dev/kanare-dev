@@ -2,7 +2,7 @@
 
 [🇯🇵 日本語はこちら](./README.md)
 
-Infrastructure / Cloud Engineer based in Japan 🇯🇵
+Infrastructure / Cloud Engineer based in Japan
 
 ## Tech Stack
 
