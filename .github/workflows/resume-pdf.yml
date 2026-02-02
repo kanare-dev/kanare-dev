@@ -1,20 +1,15 @@
-name: Build resume PDF
+name: Build resume PDF (Release asset)
 
 on:
   push:
-    branches:
-      - main
-    paths:
-      - "resume.adoc"
-      - "pdf/**"
-      - ".github/workflows/resume-pdf.yml"
-  workflow_dispatch:
+    tags:
+      - "v*"
 
 jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
-      contents: read
+      contents: write
     steps:
       - uses: actions/checkout@v4
 
@@ -41,8 +36,7 @@ jobs:
             -D dist \
             resume.adoc
 
-      - name: Upload artifact
-        uses: actions/upload-artifact@v4
+      - name: Upload PDF to GitHub Release
+        uses: softprops/action-gh-release@v2
         with:
-          name: resume-pdf
-          path: dist/resume.pdf
+          files: dist/resume.pdf
