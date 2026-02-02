@@ -27,13 +27,11 @@ jobs:
         run: |
           gem install asciidoctor asciidoctor-pdf
 
-      - name: Download Japanese fonts (Noto Sans JP)
+      - name: Download Japanese fonts (Noto Sans CJK JP)
         run: |
           mkdir -p pdf/fonts dist
-          curl -fsSL -o pdf/fonts/NotoSansJP-Regular.ttf \
-            https://github.com/google/fonts/raw/main/ofl/notosansjp/NotoSansJP-Regular.ttf
-          curl -fsSL -o pdf/fonts/NotoSansJP-Bold.ttf \
-            https://github.com/google/fonts/raw/main/ofl/notosansjp/NotoSansJP-Bold.ttf
+          curl -fsSL -o pdf/fonts/NotoSansCJKjp-VF.ttf \
+            https://raw.githubusercontent.com/notofonts/noto-cjk/main/Sans/Variable/TTF/NotoSansCJKjp-VF.ttf
 
       - name: Build PDF
         run: |

@@ -2,16 +2,16 @@ extends: default
 
 font:
   catalog:
-    Noto Sans JP:
-      normal: NotoSansJP-Regular.ttf
-      bold: NotoSansJP-Bold.ttf
-      italic: NotoSansJP-Regular.ttf
-      bold_italic: NotoSansJP-Bold.ttf
+    Noto Sans CJK JP:
+      normal: NotoSansCJKjp-VF.ttf
+      bold: NotoSansCJKjp-VF.ttf
+      italic: NotoSansCJKjp-VF.ttf
+      bold_italic: NotoSansCJKjp-VF.ttf
   fallbacks:
-    - Noto Sans JP
+    - Noto Sans CJK JP
 
 base:
-  font_family: Noto Sans JP
+  font_family: Noto Sans CJK JP
 
 heading:
-  font_family: Noto Sans JP
+  font_family: Noto Sans CJK JP
