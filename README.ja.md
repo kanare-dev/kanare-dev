@@ -9,32 +9,20 @@
 
 ## 🛠️ Tech Stack
 
-### DevOps
-
 [![Tech Stack](https://skillicons.dev/icons?i=aws,terraform,linux,docker)](https://skillicons.dev)  
-
-### Frontend
-
 [![Tech Stack](https://skillicons.dev/icons?i=nextjs,react,vite,vercel,cloudflare&perline=5)](https://skillicons.dev)  
-
-### Programming
-
 [![Tech Stack](https://skillicons.dev/icons?i=python,c,java)](https://skillicons.dev)  
-
-### Tools
-
 [![Tech Stack](https://skillicons.dev/icons?i=git,github,githubactions,vim,neovim&perline=5)](https://skillicons.dev)  
-
-### AI, ML, Data Science
+[![Tech Stack](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&perline=5)](https://skillicons.dev)
 
 ---
 
 ## 職務概要
 
-現在はインフラSE として、方式設計書、詳細設計書の作成、CloudFormation を使用した Infrastructure as Code（IaC）の実装に貢献しています。
+現在はクラウドエンジニアとして、業務で方式設計書、詳細設計書の作成、CloudFormation を使用した Infrastructure as Code（IaC）の作成を行なっています。
 業務と並行して、個人プロジェクトを通じて Terraform を積極的に活用し、アジャイルで再現可能なインフラストラクチャ設計への理解を深めています。
 
-- [職務経歴書](./RESUME.md)
+[職務経歴書](./RESUME.md)
 
 ---
 

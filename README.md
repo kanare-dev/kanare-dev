@@ -13,24 +13,10 @@ I'm a cloud engineer.
 
 ## 🛠️ Tech Stack
 
-### DevOps
-
 [![Tech Stack](https://skillicons.dev/icons?i=aws,terraform,linux,docker)](https://skillicons.dev)  
-
-### Frontend
-
 [![Tech Stack](https://skillicons.dev/icons?i=nextjs,react,vite,vercel,cloudflare&perline=5)](https://skillicons.dev)  
-
-### Programming
-
 [![Tech Stack](https://skillicons.dev/icons?i=python,c,java)](https://skillicons.dev)  
-
-### Tools
-
 [![Tech Stack](https://skillicons.dev/icons?i=git,github,githubactions,vim,neovim&perline=5)](https://skillicons.dev)  
-
-### AI, ML, Data Science
-
 [![Tech Stack](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&perline=5)](https://skillicons.dev)
 
 ---
