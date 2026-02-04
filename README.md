@@ -6,7 +6,8 @@
 My name is Kanare Kodera.  
 I'm a cloud engineer.
 
-![Top Languages](./cards/top-langs/top-langs.svg)
+![Top Languages](./cards/top-langs/top-langs-dark.svg#gh-dark-mode-only)
+![Top Languages](./cards/top-langs/top-langs-light.svg#gh-light-mode-only)
 
 [日本語はこちら](./README.ja.md)
 

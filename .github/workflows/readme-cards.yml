@@ -45,8 +45,16 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: ${{ steps.build-options.outputs.options }}
-          path: cards/top-langs/top-langs.svg
+          options: ${{ steps.build-options.outputs.options }}&&theme=default
+          path: cards/top-langs/top-langs-light.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate top languages card (dark)
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: ${{ steps.build-options.outputs.options }}&&theme=dark
+          path: cards/top-langs/top-langs-dark.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit cards
