@@ -1,8 +1,11 @@
-# 👋 Kanare Kodera
+# 👋 Hi, there
+![GitHub followers](https://img.shields.io/github/followers/Canale0107?label=followers&logo=github&style=flat)
+![Profile views](https://komarev.com/ghpvc/?username=Canale0107&color=blue)
+
+My name is Kanare Kodera.  
+I'm a cloud engineer.
 
 [日本語はこちら](./README.ja.md)
-
-Infrastructure / Cloud Engineer based in Japan
 
 ## Tech Stack
 
