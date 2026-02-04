@@ -56,7 +56,7 @@ without sacrificing reliability or autonomy.
 
 ---
 
-## Links
+## Connect With Me
 
 [![Static Badge](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white)](https://github.com/Canale0107)
 [![Static Badge](https://img.shields.io/badge/Twitter-%23000000.svg?&style=for-the-badge&logo=X&logoColor=white)](https://x.com/Canale_tech)
@@ -65,3 +65,5 @@ without sacrificing reliability or autonomy.
 
 - 🌐 Portfolio: https://kanare.dev
 - ✉️ Mail: canale0107 [at] icloud.com
+
+⭐ Always open to collaboration and learning!
