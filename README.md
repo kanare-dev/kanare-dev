@@ -30,8 +30,7 @@ implementation using CloudFormation.
 Alongside professional work, I actively explore Terraform through personal projects
 to deepen my understanding of agile and reproducible infrastructure design.
 
-- [Resume (Asciidoc)](resume.adoc)
-- Resume (PDF): [`https://github.com/Canale0107/Canale0107/releases/latest/download/resume.pdf`](https://github.com/Canale0107/Canale0107/releases/latest/download/resume.pdf)
+- [Resume](resume.md)
 
 ---
 

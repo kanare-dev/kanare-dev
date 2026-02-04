@@ -21,8 +21,7 @@
 現在はインフラSE として、方式設計書、詳細設計書の作成、CloudFormation を使用した Infrastructure as Code（IaC）の実装に貢献しています。
 業務と並行して、個人プロジェクトを通じて Terraform を積極的に活用し、アジャイルで再現可能なインフラストラクチャ設計への理解を深めています。
 
-- [職務経歴書（Asciidoc）](resume.adoc)
-- 職務経歴書（PDF）: [`https://github.com/Canale0107/Canale0107/releases/latest/download/resume.pdf`](https://github.com/Canale0107/Canale0107/releases/latest/download/resume.pdf)
+- [職務経歴書](resume.md)
 
 
 ---
