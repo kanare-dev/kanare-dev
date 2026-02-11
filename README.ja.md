@@ -48,4 +48,4 @@
 
 - 🌐 Portfolio: https://kanare.dev
 - 🧑‍💻 GitHub: https://github.com/kanare-dev
-- ✉️ Mail: canale0107 [at] icloud.com
+- ✉️ Mail: me [at] kanare.dev

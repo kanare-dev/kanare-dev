@@ -81,6 +81,6 @@ that balance stability and engineering autonomy.
 [![Credly](https://img.shields.io/badge/Credly-005850.svg?&style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/kanare-kodera/badges#credly)
 
 - 🌐 Portfolio: https://kanare.dev
-- ✉️ Mail: canale0107 [at] icloud.com
+- ✉️ Mail: me [at] kanare.dev
 
 ⭐ Always open to collaboration and learning!
