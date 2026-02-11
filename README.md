@@ -1,10 +1,12 @@
 # Hi there 👋
 
-![GitHub followers](https://img.shields.io/github/followers/Canale0107?label=followers&logo=github&style=flat)
-![Profile views](https://komarev.com/ghpvc/?username=Canale0107&color=blue)
+![GitHub followers](https://img.shields.io/github/followers/kanare-dev?label=followers&logo=github&style=flat)
+![Profile views](https://komarev.com/ghpvc/?username=kanare-dev&color=blue)
 
 My name is Kanare Kodera.  
 I'm a cloud engineer.
+
+> The name "Kanare" comes from the Italian word *canale*, meaning "channel".
 
 ![Top Languages](./cards/top-langs/top-langs-dark.svg#gh-dark-mode-only)
 ![Top Languages](./cards/top-langs/top-langs-light.svg#gh-light-mode-only)
