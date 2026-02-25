@@ -39,10 +39,17 @@ to deepen my understanding of agile and reproducible infrastructure design.
 ---
 
 ## 🚀 Current Focus
+
 - Infrastructure as Code (Terraform / CloudFormation)
 - DevOps & CI/CD automation
 - Platform Engineering
 - Reproducible cloud architecture
+
+---
+
+## 📍 Featured Repositories
+
+- [tf-practice](https://github.com/kanare-dev/tf-practice): Serverless notes app on AWS (Lambda / API Gateway / DynamoDB / Cognito), fully managed with Terraform and a GitOps CI/CD pipeline for dev/prod environments.
 
 ---
 
