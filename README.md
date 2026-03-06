@@ -13,7 +13,7 @@ I'm a cloud engineer.
 
 [日本語はこちら](./README.ja.md)
 
-## 🛠️ Tech Stack
+## 🧰 Tech Stack
 
 [![Tech Stack](https://skillicons.dev/icons?i=aws,terraform,linux,docker)](https://skillicons.dev)  
 [![Tech Stack](https://skillicons.dev/icons?i=nextjs,react,vite,vercel,cloudflare&perline=5)](https://skillicons.dev)  
@@ -23,7 +23,7 @@ I'm a cloud engineer.
 
 ---
 
-## Professional Summary
+## 👤 Professional Summary
 
 Infrastructure Engineer with hands-on experience in designing and implementing
 AWS-based infrastructure for large-scale software delivery platforms in the manufacturing domain.
@@ -53,7 +53,7 @@ to deepen my understanding of agile and reproducible infrastructure design.
 
 ---
 
-## Certifications
+## 🏅 Certifications
 
 AWS Certified across 3 Associate tracks and Professional-level Solutions Architect.
 
@@ -65,7 +65,7 @@ AWS Certified across 3 Associate tracks and Professional-level Solutions Archite
 
 ---
 
-## Engineering Philosophy
+## 💡 Engineering Philosophy
 
 > Design stable structures that preserve freedom.
 
@@ -74,13 +74,13 @@ and empower engineers to move fast without sacrificing reliability.
 
 ---
 
-## 🎯 Long-Term Vision
+## 🧭 Long-Term Vision
 To design scalable and reproducible cloud platforms
 that balance stability and engineering autonomy.
 
 ---
 
-## Connect With Me
+## 🤝 Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white)](https://github.com/kanare-dev)
 [![Twitter](https://img.shields.io/badge/Twitter-%23000000.svg?&style=for-the-badge&logo=X&logoColor=white)](https://x.com/kanare_io)
