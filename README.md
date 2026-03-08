@@ -51,6 +51,7 @@ to deepen my understanding of agile and reproducible infrastructure design.
 ## 📍 Featured Repositories
 
 - [tf-practice](https://github.com/kanare-dev/tf-practice): Serverless notes app on AWS (Lambda / API Gateway / DynamoDB / Cognito), fully managed with Terraform and a GitOps CI/CD pipeline for dev/prod environments.
+- [homelab](https://github.com/kanare-dev/homelab): Proxmox-based homelab that provisions role-separated VMs with Terraform and Ansible, then runs internal DNS, reverse proxy, VPN, monitoring, and IoT metrics with Docker Compose.
 
 ---
 
