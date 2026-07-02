@@ -3,7 +3,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/kanare-dev?label=followers&logo=github&style=flat)
 ![Profile views](https://komarev.com/ghpvc/?username=kanare-dev&color=blue)
 
-My name is Kanare Kodera.  
+My name is Kanare Kodera. (小寺奏怜)
 I'm a cloud engineer.
 
 > The name "Kanare" comes from the Italian word *canale*, meaning "channel".
